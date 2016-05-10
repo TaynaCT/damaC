@@ -9,7 +9,7 @@
 #include <string.h>
 #pragma warning(disable:4996)
 
-
+//joão é fixe
 //array que desenha o tabuleiro
 int tabuleiro[8][8]; // 0 1 ou 2
 
